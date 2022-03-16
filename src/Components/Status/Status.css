@@ -1,0 +1,17 @@
+.Status {
+  justify-content: space-between;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.StatusProfit {
+  color: chartreuse;
+}
+
+.StatusLoss {
+  color: red;
+}
+
+.StatusBalance {
+  color: orange;
+}
